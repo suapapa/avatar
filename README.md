@@ -1,1 +1,6 @@
-![suapapa](https://github.com/suapapa/avatar/blob/master/suapapa_body_color.svg)
+# Avatar of suapapa
+
+Convert to raster image:
+
+    inkscape  -z -d=150 -e="suapapa150dpi.png"  suapapa_face_color.svg
+
